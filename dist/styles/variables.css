@@ -1,0 +1,11 @@
+:root {
+  --square-size: 200px;
+  --square-font-size: 175px;
+  --border-inner-size: 1px;
+  --border-outer-size: 2px;
+
+  --square-hover-color: #FFFFB5;
+  --square-win-color: #41FF1B;
+  --square-lose-color: #F60F0FF6;
+  --info-banner-color: #2F58CD;
+}
